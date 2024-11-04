@@ -1,0 +1,44 @@
+Example Usage of the Simple Todo List Application:
+
+1. Adding Tasks:
+
+- User selects option 1 to add a new task.
+- Enters "Buy groceries" as the task description.
+- Application assigns ID 1 to the task.
+
+2. Listing Tasks:
+
+- User selects option 4 to list all tasks.
+- Application displays:
+  ID      Description     Status
+  ---------------------------------
+  1       Buy groceries   Incomplete
+
+3. Marking a Task as Completed:
+
+- User selects option 3 to mark a task as completed.
+- Enters ID 1.
+- Application marks task 1 as completed.
+
+4. Saving Tasks to a File:
+
+- User selects option 5 to save tasks.
+- Enters "mytasks.txt" as the filename.
+- Application saves tasks to "mytasks.txt".
+
+5. Loading Tasks from a File:
+
+- User selects option 6 to load tasks.
+- Enters "mytasks.txt" as the filename.
+- Application loads tasks from "mytasks.txt".
+
+6. Deleting a Task:
+
+- User selects option 2 to delete a task.
+- Enters ID 1.
+- Application deletes task 1.
+
+7. Exiting the Application:
+
+- User selects option 0 to exit.
+- Application terminates.
